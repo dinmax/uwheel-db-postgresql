@@ -1,6 +1,6 @@
 {
   "name": "uw-db-postgresql",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "driver for PostgreSQL database engine for uwheel tools",
   "main": "PostgreSQL.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "author": "Matias Gonzalez <matias.gonzalez@dinmax.com>",
   "license": "MIT",
-  "repository" :{
-    "type" : "git",
-    "url" : "https://github.com/dinmax/uwheel-db-postgressql.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinmax/uwheel-db-postgresql.git"
   },
   "dependencies": {
     "pg": "^4.4.0",
