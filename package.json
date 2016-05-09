@@ -1,6 +1,6 @@
 {
   "name": "uw-db-postgresql",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "driver for PostgreSQL database engine for uwheel tools",
   "main": "PostgreSQL.js",
   "scripts": {
